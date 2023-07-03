@@ -1,0 +1,3 @@
+smtp
+    username : vyshnavchikku891@gmail.com
+    password : 119C3723C1935523F744B4A581302C3CB429
