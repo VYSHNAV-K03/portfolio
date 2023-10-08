@@ -232,7 +232,7 @@ function App() {
                 <AiFillGithub />
               </a>
               <a
-                href="https://www.linkedin.com/in/vyshnav-k-270099192/"
+                href="https://www.linkedin.com/company/vectorux/?viewAsMember=true"
                 target="_blank"
                 rel="noreferrer"
               >
